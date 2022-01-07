@@ -182,7 +182,7 @@ class Tetris(object):
         Parameters:
             - str_lst - list of strings to print. Each string is printed on new line.
         """
-        max_xsize = max([tmp[0] for tmp in map(self.myfont.size,str_list)])
+        max_xsize = max(tmp[0] for tmp in map(self.myfont.size,str_list))
         self.print_text(str_list,self.resx/2-max_xsize/2,self.resy/2)
 
     def block_colides(self):
