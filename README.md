@@ -1,5 +1,11 @@
-# Python_TeHi it's me RAVANGER_101 AKA Aryan Gore.
+<h1 align="center"><code>Python_Tetris</code></h1>
 
-Controls for Tetris:
-1.Arrows to move.
-2.space to rotate
+Hi, it's me again with another project!
+
+### Notes
+- Windows OS only
+- Please install `requirements.txt` before using
+
+### Controls
+1. Arrows to move
+2. Space to rotate
