@@ -6,6 +6,12 @@ Hi, it's me again with another project!
 - Windows OS only
 - Please install `requirements.txt` before using
 
-### Controls
-1. Arrows to move
-2. Space to rotate
+### How to play
+
+#### Opening the game
+Run `app/main.py`.
+
+#### Controls
+- Arrows to move
+- Space to rotate
+- `P` to pause
